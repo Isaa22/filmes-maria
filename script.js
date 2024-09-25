@@ -7,8 +7,8 @@ function setup() {
   createElement("h2", "@rasinformática");
   createSpan("Sua idade:");
   campoIdade = createInput("5");
-  campoFantasia = createCheckbox("Gosta de filmes com Qi alto?");
-  campoAventura = createCheckbox("Gosta de filme sobre sistemas?");
+  campoFantasia = createCheckbox("Gosta de filmes de romance?");
+  campoAventura = createCheckbox("Gosta de filme sobre pericia criminal?");
 }
 
 function draw() {
