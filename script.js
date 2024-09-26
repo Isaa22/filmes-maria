@@ -8,6 +8,7 @@ function setup() {
   createSpan("Sua idade:");
   campoIdade = createInput("5");
   campoFantasia = createCheckbox("Gosta de filmes de romance?");
+  campoAventura = createCheckbox("Gosta de filme sobre crime?");
   campoAventura = createCheckbox("Gosta de filme sobre pericia criminal?");
 }
 
