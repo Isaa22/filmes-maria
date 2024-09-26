@@ -27,7 +27,7 @@ function draw() {
 function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
   if (idade >= 10) {
     if (idade >= 14) {
-      return "Rafael, Fabiula, Maria Helena, Isabel";
+      return "Maria, Kaue, Viviane, Milena";
     } else {
       if (idade >= 12) {
         if(gostaDeFantasia || gostaDeAventura) {
