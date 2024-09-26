@@ -31,7 +31,7 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
     } else {
       if (idade >= 12) {
         if(gostaDeFantasia || gostaDeAventura) {
-          return "Github-professor-rafael";          
+          return "https://github.com/Isaa22";          
         } else{
          return "Programando com html e css";
         }
