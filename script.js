@@ -10,10 +10,11 @@ function setup() {
   campoFantasia = createCheckbox("Gosta de filmes de romance?");
   campoAventura = createCheckbox("Gosta de filme sobre crime?");
   campoAventura = createCheckbox("Gosta de filme sobre pericia criminal?");
+  campoAventura = createCheckbox("Gosta de filme sobre policial?");
 }
 
 function draw() {
-  background("Black");
+  background("pink");
   let idade = campoIdade.value();
   let gostaDeFantasia = campoFantasia.checked();
   let gostaDeAventura = campoAventura.checked();
