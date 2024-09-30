@@ -49,7 +49,7 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
     if (gostaDeFantasia) {
       return "@maria_isabelyyy22";
     } else {
-      return "Todo Hacker tem um início";
+      return "Pericia criminal";
     }
   }
 }
