@@ -1,8 +1,8 @@
 html, body {
     margin: 30px;
     padding: 10;
-    background-color: rgb(Black);
-  }
+ background: url('Música-Guitarra-Animada (1).gif');
+}
   
   canvas {
     display: block;
